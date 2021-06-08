@@ -1,0 +1,22 @@
+{
+  "name": "heroku-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksedano/heroku-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksedano/heroku-repo/issues"
+  },
+  "homepage": "https://github.com/ksedano/heroku-repo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
